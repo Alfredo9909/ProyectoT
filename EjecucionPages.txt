@@ -1,0 +1,11 @@
+1- Acomodaremos nuestra silla debajo de la mesa.
+
+2. Entonces nos dirigimos hacía la parte superior y seleccionamos la parte que dice "mover piezas", se nos apareceran 4 opciones.
+
+
+3. Seguiremos estos pasos para que la silla quede debajo de la mesa.
+ a) 9 veces damos click en la parte de "pza 1 a la derec2.
+   b) 15 veces damos click en la parte de "translacionY".
+     c) 15 veces damos click en la parte de "translacionX".
+
+4. Al finaal podremos observar que nuestra pieza se ha movido de manera correcta.

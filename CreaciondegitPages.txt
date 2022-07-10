@@ -1,0 +1,15 @@
+1. Una vez creado nuestro repositorio nos vamos a la seccion de "settings".
+
+2. Estando en Settings, del lado izquierdo de nuestra pantalla hay varias opciones.
+
+3. Buscamos la opcion que dice "Pages".
+
+4. Estando en la opcion "Pages", buscamos la seccion que dice "Source" esta tiene por defecto la palabra "None"
+
+5. Seleccionamos la palabra "None" y se nos despliega una lista, seleccionamos nuestro repositorio que por lo comun es "main".
+
+6. Una vez seleccionado nuestro repositorio le damos en "Save".
+
+7. La pagina se resfrescara y nos aparecera este mensaje  "Your site is ready to be published at: linkdenuestrapaginaenpages"
+
+8. Entramos a link y verificamos que nuestra pagina se visualize.
